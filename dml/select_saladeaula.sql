@@ -1,0 +1,1 @@
+select * from saladeaula where id=1;

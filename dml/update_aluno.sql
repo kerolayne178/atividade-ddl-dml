@@ -1,0 +1,1 @@
+update aluno set nome="kerolayne ribeiro thereza" where id=1;

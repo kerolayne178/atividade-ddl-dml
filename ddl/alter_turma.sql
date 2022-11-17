@@ -1,0 +1,1 @@
+alter table turma add fk_id_horario int foreign key (idhorario) references horario (id), fk_id_matricula int

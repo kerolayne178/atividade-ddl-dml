@@ -1,0 +1,1 @@
+insert into matricula (id, descricao) values (1,"descrição");

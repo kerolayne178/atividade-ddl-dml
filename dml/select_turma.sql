@@ -1,0 +1,1 @@
+select * from truma where id=1; 

@@ -1,0 +1,1 @@
+update professor set nome="jackson" where id=1;
